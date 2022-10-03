@@ -1,1 +1,96 @@
-{"name":"Haeun Oh","headerTaglineOne":"안녕하세요 👋  ","headerTaglineTwo":"오하은입니다.","headerTaglineThree":"","headerTaglineFour":"","showBlog":false,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/o-haa"},{"id":"4","title":"Blog","link":"https://hablem.tistory.com/"},{"id":"5","title":"Email","link":"mailto:haeun9627@hanmail.net"}],"projects":[{"id":"1","title":"DappTunes","description":"구독 컨트랙트  구독기능  플레이어 기능   마이페이지 프론트  트랜잭션 내역  경매 입찰 및 종료  검색 기능  전반적인 프론트  즉시 판매 삭제","imageSrc":"/images/Dapptunes.gif","url":""},{"id":"2","title":"BlockChain Explorer","description":" EtherScan mini Project - DB와 가나슈를 이용해서 발생된 트랜잭션 조회.","imageSrc":"/images/Block.png","url":"https://github.com/o-haa/Blockchain-Explorer"},{"id":"3","title":"Donut 999","description":"React Project - 관리자페이지 및 모달 디자인.","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"https://github.com/o-haa/donut999"},{"id":"4","title":"공연 예매 사이트","description":"Node.js Project - 게시판CRUD, 좋아요, 페이징, 어드민 페이지 ","imageSrc":"/images/nodeBoard.gif","url":"https://github.com/o-haa/theGreatest6"},{"id":"5","title":"Space Community","description":"node.js mini Project - 프론트 디자인","imageSrc":"/images/space_community.gif","url":"https://github.com/o-haa/Teample"},{"id":"6","title":"CHANEL ","description":"개인 Project - 메인페이지 클론","imageSrc":"/images/chanel.gif","url":"https://github.com/o-haa/Chanel"}],"services":[],"aboutpara":"긍정적이고 성실함으로 일할 수 있는 주니어 개발자 입니다 🙋🏻‍♀️","resume":{"tagline":"👋  I'm a Junior Engineer.","description":"","experiences":[{"id":"1","dates":"2021/12~2022/10","type":"국비지원훈련","position":"경일 게임 아카데미 수료","bullets":"블록체인 기반 핀테크 및 응용 SW개발자 양성과정"},{"id":"2","dates":"2021/07~2021/09","type":"Part time","position":"Onlinemall manager","bullets":"이벤트 기획 및 CS 담당"},{"id":"3","dates":"2017/10 ~ 2020/10","type":"Full Time and Part time","position":"Merchandiser (MD), Onlinemall manager","bullets":"MD: 상품 관리 및 기획,  온라인매니저: 쇼핑몰 기획 및 제작참여, CS"}],"education":{"universityName":"동원대학교","universityDate":"2016.03~2018.02","universityPara":"실용영어과"},"languages":["HTML5","CSS","Javascript","Typescript","Solidity"],"frameworks":["NodeJs","Express","React","Redux-toolkit"],"others":["MySQL","MongoDB","AWS","Docker","Github"]}}
+{
+  "name": "Haeun Oh",
+  "headerTaglineOne": "안녕하세요 👋  ",
+  "headerTaglineTwo": "오하은입니다.",
+  "headerTaglineThree": "",
+  "headerTaglineFour": "",
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/o-haa" },
+    { "id": "4", "title": "Blog", "link": "https://hablem.tistory.com/" },
+    { "id": "5", "title": "Email", "link": "mailto:haeun9627@hanmail.net" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "DappTunes",
+      "description": "구독 컨트랙트  구독기능  플레이어 기능   마이페이지 프론트  트랜잭션 내역  경매 입찰 및 종료  검색 기능  전반적인 프론트  즉시 판매 삭제",
+      "imageSrc": "/images/Dapptunes.gif",
+      "url": ""
+    },
+    {
+      "id": "2",
+      "title": "BlockChain Explorer",
+      "description": " EtherScan mini Project - DB와 가나슈를 이용해서 발생된 트랜잭션 조회.",
+      "imageSrc": "/images/Block.png",
+      "url": "https://github.com/o-haa/Blockchain-Explorer"
+    },
+    {
+      "id": "3",
+      "title": "Donut 999",
+      "description": "React Project - 관리자페이지 및 모달 디자인.",
+      "imageSrc": "/images/donut.gif",
+      "url": "https://github.com/o-haa/donut999"
+    },
+    {
+      "id": "4",
+      "title": "공연 예매 사이트",
+      "description": "Node.js Project - 게시판CRUD, 좋아요, 페이징, 어드민 페이지 ",
+      "imageSrc": "/images/nodeBoard.gif",
+      "url": "https://github.com/o-haa/theGreatest6"
+    },
+    {
+      "id": "5",
+      "title": "Space Community",
+      "description": "node.js mini Project - 프론트 디자인",
+      "imageSrc": "/images/space_community.gif",
+      "url": "https://github.com/o-haa/Teample"
+    },
+    {
+      "id": "6",
+      "title": "CHANEL ",
+      "description": "개인 Project - 메인페이지 클론",
+      "imageSrc": "/images/chanel.gif",
+      "url": "https://github.com/o-haa/Chanel"
+    }
+  ],
+  "services": [],
+  "aboutpara": "긍정적이고 성실함으로 일할 수 있는 주니어 개발자 입니다 🙋🏻‍♀️",
+  "resume": {
+    "tagline": "👋  I'm a Junior Engineer.",
+    "description": "",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "2021/12~2022/10",
+        "type": "국비지원훈련",
+        "position": "경일 게임 아카데미 수료",
+        "bullets": "블록체인 기반 핀테크 및 응용 SW개발자 양성과정"
+      },
+      {
+        "id": "2",
+        "dates": "2021/07~2021/09",
+        "type": "Part time",
+        "position": "Onlinemall manager",
+        "bullets": "이벤트 기획 및 CS 담당"
+      },
+      {
+        "id": "3",
+        "dates": "2017/10 ~ 2020/10",
+        "type": "Full Time and Part time",
+        "position": "Merchandiser (MD), Onlinemall manager",
+        "bullets": "MD: 상품 관리 및 기획,  온라인매니저: 쇼핑몰 기획 및 제작참여, CS"
+      }
+    ],
+    "education": {
+      "universityName": "동원대학교",
+      "universityDate": "2016.03~2018.02",
+      "universityPara": "실용영어과"
+    },
+    "languages": ["HTML5", "CSS", "Javascript", "Typescript", "Solidity"],
+    "frameworks": ["NodeJs", "Express", "React", "Redux-toolkit"],
+    "others": ["MySQL", "MongoDB", "AWS", "Docker", "Github"]
+  }
+}
