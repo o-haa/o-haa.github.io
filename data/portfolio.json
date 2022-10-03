@@ -94,14 +94,11 @@
       "Node.Js",
       "Express",
       "React",
-      "Next.js",
       "Redux-toolkit",
-      "Tailwind",
-      "ChakraUI",
-      "web3",
-      "Truffle",
-      "Ganache",
-      "Geth"
+      "Next.js",
+      "Tailwind, ChakraUI",
+      "web3, Ganache, Geth",
+      "Truffle"
     ],
     "others": ["MySQL", "MongoDB", "AWS", "Docker", "Git", "Github", "MacOS"]
   }
