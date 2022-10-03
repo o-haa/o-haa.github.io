@@ -39,4 +39,4 @@ const Cursor = () => {
   );
 };
 
-export default Cursor;
+// export default Cursor;
