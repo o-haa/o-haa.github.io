@@ -32,7 +32,7 @@ const Resume = () => {
       )}
 
       {/* <Cursor /> */}
-      <div className="container mx-auto cursor-none mb-10">
+      <div className="container mx-auto mb-10">
         <Header isBlog />
         {mount && (
           <div className="mt-10 w-full flex flex-col items-center">
