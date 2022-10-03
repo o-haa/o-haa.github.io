@@ -90,7 +90,19 @@
       "universityPara": "실용영어과"
     },
     "languages": ["HTML5", "CSS", "Javascript", "Typescript", "Solidity"],
-    "frameworks": ["NodeJs", "Express", "React", "Redux-toolkit"],
-    "others": ["MySQL", "MongoDB", "AWS", "Docker", "Github"]
+    "frameworks": [
+      "Node.Js",
+      "Express",
+      "React",
+      "Next.js",
+      "Redux-toolkit",
+      "Tailwind",
+      "ChakraUI",
+      "web3",
+      "Truffle",
+      "Ganache",
+      "Geth"
+    ],
+    "others": ["MySQL", "MongoDB", "AWS", "Docker", "Git", "Github", "MacOS"]
   }
 }
