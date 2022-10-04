@@ -18,7 +18,7 @@
       "title": "DappTunes",
       "description": "구독 컨트랙트  구독기능  플레이어 기능   마이페이지 프론트  트랜잭션 내역  경매 입찰 및 종료  검색 기능  전반적인 프론트  즉시 판매 삭제",
       "imageSrc": "/images/Dapptunes.gif",
-      "url": ""
+      "url": "https://team-1-nft-unes-fe.vercel.app/"
     },
     {
       "id": "2",
@@ -30,7 +30,7 @@
     {
       "id": "3",
       "title": "Donut 999",
-      "description": "React Project - 관리자페이지 및 모달 디자인.",
+      "description": "React Project - React-Saga를 사용해서 상태를 관리하고 Admin Front, Server 및 모달 디자인.",
       "imageSrc": "/images/donut.gif",
       "url": "https://github.com/o-haa/donut999"
     },
