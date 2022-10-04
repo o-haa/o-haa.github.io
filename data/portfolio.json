@@ -23,7 +23,7 @@
     {
       "id": "2",
       "title": "BlockChain Explorer",
-      "description": " 7일동안 진행된 개인 프로젝트로 DB와 가나슈를 이용해서 네트워크에 있는 블록을 저장하고 불러오는 익스플로어를 구현하였습니다. ",
+      "description": " 7일동안 진행된 개인 프로젝트로 DB와 Geth를 이용해서 네트워크에 있는 블록을 저장하고 불러오는 익스플로어를 구현하였습니다. ",
       "imageSrc": "/images/Block.png",
       "url": "https://github.com/o-haa/Blockchain-Explorer"
     },
