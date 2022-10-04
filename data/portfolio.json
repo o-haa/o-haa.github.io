@@ -16,50 +16,50 @@
     {
       "id": "1",
       "title": "DappTunes",
-      "description": "구독 컨트랙트  구독기능  플레이어 기능   마이페이지 프론트  트랜잭션 내역  경매 입찰 및 종료  검색 기능  전반적인 프론트  즉시 판매 삭제",
+      "description": "프로젝트 중 마지막 프로젝트로 39일간 작업하였습니다. Redux-Toolkit, Next.js, MongoDB를 사용하여 구독 컨트랙트,  플레이어 기능, 마이페이지 프론트, 트랜잭션 내역, 경매 입찰 및 종료, 검색 기능, 전반적인 프론트, 즉시 판매 삭제를 담당하였습니다. ",
       "imageSrc": "/images/Dapptunes.gif",
       "url": "https://team-1-nft-unes-fe.vercel.app/"
     },
     {
       "id": "2",
       "title": "BlockChain Explorer",
-      "description": " EtherScan mini Project - DB와 가나슈를 이용해서 발생된 트랜잭션 조회.",
+      "description": " 7일동안 진행된 개인 프로젝트로 DB와 가나슈를 이용해서 네트워크에 있는 블록을 저장하고 불러오는 익스플로어를 구현하였습니다. ",
       "imageSrc": "/images/Block.png",
       "url": "https://github.com/o-haa/Blockchain-Explorer"
     },
     {
       "id": "3",
       "title": "Donut 999",
-      "description": "React Project - React-Saga를 사용해서 상태를 관리하고 Admin Front, Server 및 모달 디자인.",
+      "description": "React Project(21일) - React-Saga를 사용해서 상태를 관리하고 Admin Front, Server 및 모달 디자인을 구현하였습니다.",
       "imageSrc": "/images/donut.gif",
       "url": "https://github.com/o-haa/donut999"
     },
     {
       "id": "4",
       "title": "공연 예매 사이트",
-      "description": "Node.js Project - 게시판CRUD, 좋아요, 페이징, 어드민 페이지 ",
+      "description": "Node.js Project(21일) - 스키마를 만들고 게시판CRUD, 좋아요, 페이징, 어드민 페이지 구현하였습니다. ",
       "imageSrc": "/images/nodeBoard.gif",
       "url": "https://github.com/o-haa/theGreatest6"
     },
     {
       "id": "5",
       "title": "Space Community",
-      "description": "node.js mini Project - 프론트 디자인",
+      "description": "node.js mini Project(7일) - 프론트 디자인",
       "imageSrc": "/images/space_community.gif",
       "url": "https://github.com/o-haa/Teample"
     },
     {
       "id": "6",
       "title": "CHANEL ",
-      "description": "개인 Project - 메인페이지 클론",
+      "description": "개인 Project(7일) - HTML, CSS, Javascript를 이용하여 메인페이지 클론하였습니다.",
       "imageSrc": "/images/chanel.gif",
       "url": "https://github.com/o-haa/Chanel"
     }
   ],
   "services": [],
-  "aboutpara": "긍정적이고 성실함으로 일할 수 있는 주니어 개발자 입니다 🙋🏻‍♀️",
+  "aboutpara": "긍정적이고 책임감있게 일할 수 있는 주니어 개발자 입니다 🙋🏻‍♀️",
   "resume": {
-    "tagline": "👋  I'm a Junior Engineer.",
+    "tagline": "👋  I'm a Junior Developer.",
     "description": "",
     "experiences": [
       {
